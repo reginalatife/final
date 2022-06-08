@@ -9,6 +9,7 @@
 ¿Para qué es esta propuesta? → objetivo general → Presentar mis proyectos de manera clara e interesante, mostrando mis habilidades en todos los ambitos: web, grafico, producto, ilustración, etc. De manera que posibles clientes me contacten y quieran trabajar conmigo.
 
 ¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio →
-![5](https://user-images.githubusercontent.com/93101241/172687349-a904cd36-7e34-4d64-88e0-0c6d28f48827.png
+Más probable 
 ![1](https://user-images.githubusercontent.com/93101241/172687609-9f71785b-5aca-4532-93c7-8b4bf1948052.png)
+Menos probable
 ![2](https://user-images.githubusercontent.com/93101241/172687618-9de6be62-3b9e-4981-927d-dda74210b119.png)
